@@ -1,0 +1,8 @@
+[book]
+authors = ["Sabitov Kirill"]
+language = "en"
+src = "src"
+title = "Курс Машинного Обучения"
+
+[preprocessor.katex]
+after = ["links"]
